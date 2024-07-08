@@ -50,6 +50,7 @@ Pour lancer la pipeline, il faut stimuler un push pour déclencher le processus.
 
 A terme de ce labs, vous pouvez supprimer le codespace créé et envoyer vos documents PPT et vos fichiers commentés par email à raouf.amdouni@intervenants.efrei.net.
 
+
 Bon courage,
 Raouf AMDOUNI
 
